@@ -1,0 +1,10 @@
+{
+  "name": "@banking/kafka",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "kafkajs": "^2.2.4",
+    "uuid": "^10.0.0"
+  }
+}
